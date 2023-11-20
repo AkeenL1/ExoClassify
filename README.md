@@ -39,3 +39,4 @@ completed.
     in ascending order on the values in that column.
 -   [ ] User can click on the down symbol to sort the rows in the results panel
     in descending order on the values in the column.
+    one more
