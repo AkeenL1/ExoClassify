@@ -10,7 +10,7 @@ import java.io.IOException;
 // We'll need to use NASA TAP Service for data access
 // For now I'm simply going to access Planetary Systems, perhaps table extensibility is in the future?
 public class Main {
-    public static void main(String[] args) throws {
+    public static void main(String[] args) {
         // print exoclassify ascii
         AsciiTextConverter homeScreenAsciiArt = new AsciiTextConverter("ExoClassify");
         homeScreenAsciiArt.displayAsciiArt();
